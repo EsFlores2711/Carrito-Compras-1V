@@ -1,0 +1,44 @@
+[
+    {
+      "precio": 50,
+      "id": 1,
+      "title": "Puesta de uñas",
+      "thumbnailUrl": "../Imagenes/Uñas.jpg"
+    },
+
+    {
+      "precio": 300,
+      "id": 2,
+      "title": "Alizados de Cabello",
+      "thumbnailUrl": "../Imagenes/Alizados permanentes.jpg"
+    },
+
+    {
+      "precio": 150,
+      "id": 3,
+      "title": "Corte de Cabello",
+      "thumbnailUrl": "../Imagenes/Corte de cabello.jpg"
+    },
+
+    {
+      "precio": 450,
+      "id": 4,
+      "title": "Extensiones de Cabello",
+      "thumbnailUrl": "../Imagenes/Extenciones de cabello.jpg"
+    },
+
+    {
+      "precio": 125,
+      "id": 5,
+      "title": "Peinados",
+      "thumbnailUrl": "../Imagenes/Peinados.jpg"
+    },
+
+    {
+      "precio": 200,
+      "id": 6,
+      "title": "Pintado de Cabello",
+      "thumbnailUrl": "../Imagenes/Pintado de Cabello.jpg"
+    }
+    
+  ]
