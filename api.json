@@ -1,0 +1,44 @@
+[
+    {
+      "precio": 500.00,
+      "id": 1,
+      "title": "Café",
+      "thumbnailUrl": "https://picsum.photos/seed/picsum/200"
+    },
+
+    {
+      "precio": 300.00,
+      "id": 2,
+      "title": "Pizza",
+      "thumbnailUrl": "https://picsum.photos/seed/picsum/200"
+    },
+
+    {
+      "precio": 100.00,
+      "id": 3,
+      "title": "Agua",
+      "thumbnailUrl": "https://picsum.photos/seed/picsum/200"
+    },
+
+    {
+      "precio": 50.00,
+      "id": 4,
+      "title": "Sandía",
+      "thumbnailUrl": "https://picsum.photos/seed/picsum/200"
+    },
+
+    {
+      "precio": 10.00,
+      "id": 5,
+      "title": "Mango",
+      "thumbnailUrl": "https://picsum.photos/seed/picsum/200"
+    },
+
+    {
+      "precio": 150.00,
+      "id": 6,
+      "title": "Chela",
+      "thumbnailUrl": "https://picsum.photos/seed/picsum/200"
+    }
+    
+  ]
